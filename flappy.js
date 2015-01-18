@@ -70,20 +70,20 @@ function spaceHandler(){
 
 
 function moveRight(){
-    player.x = player.x + 30;
+    player.x = player.x + 20;
 
 }
 
 function moveLeft(){
-    player.x = player.x - 30;
+    player.x = player.x - 20;
 
 }
 function moveUp(){
-    player.y = player.y - 30;
+    player.y = player.y - 20;
 
 }
 function moveDown(){
-    player.y = player.y + 30;
+    player.y = player.y + 20;
 
 }
 
